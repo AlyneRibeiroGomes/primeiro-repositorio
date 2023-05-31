@@ -8,3 +8,9 @@ body{
     display:flex;
     justify-content: space-around;
     }
+
+   .formula {
+        width:10%;
+        height:40% ;
+        }
+    
