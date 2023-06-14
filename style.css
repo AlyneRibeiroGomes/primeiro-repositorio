@@ -1,6 +1,6 @@
 body{
     background-color: #210253;
-    color: rgb(107, 107, 211)
+    color: rgb(255, 255, 255)
 }
 .cabecalho {
     background-color: #383D58;
@@ -11,7 +11,7 @@ body{
     padding: 24px 0;
     }
 
-.cabecalho-imagem{
+.escola-imagem{
     width: 20%;
 }
 
@@ -26,8 +26,9 @@ body{
         height:40% ;
         }
 .escola-imagem {
-    width:  25%;
+    width: 25%;
 }
-    
-        
-        
+
+.estudantes {
+    width: 288px;
+}
