@@ -30,5 +30,11 @@ body{
 }
 
 .estudantes {
-    width: 288px;
+   width: 288px;
 }
+.foto-perfil {
+    width: 192px;
+}
+.perfil-foto {
+    width: 161px;
+} 
