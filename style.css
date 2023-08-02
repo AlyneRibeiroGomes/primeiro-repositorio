@@ -25,43 +25,68 @@ body{
         width:10%;
         height:40% ;
         }
+.alyne {
+    width: 100px;
+}
+
+.tacyane {
+    width: 100px;
+}
+
+.victor {
+    width: 100px;
+}
+
+.kawã {
+    width: 100px;
+}
+ .tatyane {
+    width: 100px;
+ }  
 
 .escola-imagem {
     width: 25%;
  }
 
 .estudantes {
-   width: 288px;
+   width: 100px;
  }
 
-.foto-perfil {
-    width: 192px;
+.raquel {
+    width: 66px;
  } 
 
-.perfil-foto {
-    width: 161px;
+.rafael {
+    width: 56px;
  } 
 
 .jose{
-    width: 302px;
+    width: 105px;
  }
 
 .gaby {
-    width: 162px;
+    width: 56px;
  }
 
 .monique{
-    width: 295px;
+    width: 100px;
  }
 
 .gustavo{
-    width: 270px;
+    width: 92px;
  }
 
-.instagram{
-    width: 24px;
+ .thays {
+    width: 100px;
  }
 
+ .laryssa {
+    width: 100px;
+ }
+
+ .leticia {
+    width: 100px;
+ }
 .estudante-div{
     text-align: center;
  }
